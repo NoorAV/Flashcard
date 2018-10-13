@@ -110,8 +110,8 @@
 		56CF1A672172905D00EE3A8C /* FlashcardTests */ = {
 			isa = PBXGroup;
 			children = (
-				56CF1A682172905D00EE3A8C /* FlashcardTests.swift */,
 				56CF1A6A2172905D00EE3A8C /* Info.plist */,
+				56CF1A682172905D00EE3A8C /* FlashcardTests.swift */,
 			);
 			path = FlashcardTests;
 			sourceTree = "<group>";
